@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ISM6225_Spring_2024_Assignment_2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79dafef46baa0d0311e70643ff463298549a20fb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0267c0d2b78b0f4faaffea27ddba85b847fe0c27")]
 [assembly: System.Reflection.AssemblyProductAttribute("ISM6225_Spring_2024_Assignment_2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ISM6225_Spring_2024_Assignment_2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
